@@ -4,7 +4,7 @@ export const projects = [
     description: "Designed with their guests in mind, I have made a website which shows guests the beauty which is Mountain Aloe Den. This website solidified my knowledge on PHP and introduced me to the world of Javascript.",
       image: '/images/1.jpeg',
       tags: ['PHP', 'JavaScript', 'HTML', 'CSS'],
-    Source: 'https://www.mountainaloeden.co.za',
+    source: 'https://www.mountainaloeden.co.za',
     id: 0,
   },
   {
